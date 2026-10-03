@@ -1,6 +1,6 @@
 # About Me
 ## Hello！ 我是刘佳琳 你可以叫我零距离
-## 数字媒体技术学生/喜欢玩王者荣耀/MBTI是ESFJ
+## 数字媒体技术学生/ESFJ
 # Interest
 ### 想学习有关AI绘图、PS、3D建模等技能
 # Skills
